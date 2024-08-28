@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fullname_msg</name>
+   <tag></tag>
+   <elementGuidId>f8767262-03dc-4b3a-8cd6-3dcbfe4b3767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':r55:-helper-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vui lòng nhập câu hỏi cần bình chọn&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c54b753e-205e-426b-a774-9ecc8969da74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-o1ds8i-MuiFormHelperText-root</value>
+      <webElementGuid>583b753a-93f6-4d06-a76a-60d331457a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r55:-helper-text</value>
+      <webElementGuid>cf6ef38c-e455-4e5f-ba8f-a610d4e9697c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vui lòng nhập câu hỏi cần bình chọn</value>
+      <webElementGuid>f4363381-6b1c-4695-9c7c-a3050e6df663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r55:-helper-text&quot;)</value>
+      <webElementGuid>5adf2a17-d9a5-4eb4-86bd-a71102ae726a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r55:-helper-text']</value>
+      <webElementGuid>e426642b-076c-4262-9625-b1b8f5e736c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Câu hỏi bình chọn *'])[2]/following::p[1]</value>
+      <webElementGuid>803c5162-3ce7-4495-91a3-1b61debb69d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Câu hỏi bình chọn *'])[1]/following::p[1]</value>
+      <webElementGuid>77975028-6c9a-41c7-a630-8c7debdd6fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lựa chọn 1 *'])[1]/preceding::p[2]</value>
+      <webElementGuid>6856f3ed-e8f1-454e-803f-6ce9a00d671e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lựa chọn 1 *'])[2]/preceding::p[2]</value>
+      <webElementGuid>29d2741d-34ca-4131-abe3-b583d5791f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vui lòng nhập câu hỏi cần bình chọn']/parent::*</value>
+      <webElementGuid>63e2d7c8-1c1d-455a-88da-12bb648e2857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/p</value>
+      <webElementGuid>1557ad99-c13d-454b-b0b8-a6091226728c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r55:-helper-text' and (text() = 'Vui lòng nhập câu hỏi cần bình chọn' or . = 'Vui lòng nhập câu hỏi cần bình chọn')]</value>
+      <webElementGuid>d8f3f160-661d-4762-a9a4-4ca1e718dd4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

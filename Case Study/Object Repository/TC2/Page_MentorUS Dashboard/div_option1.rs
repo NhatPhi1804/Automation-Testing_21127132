@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_option1</name>
+   <tag></tag>
+   <elementGuidId>bb237ce1-be34-47ce-ae8c-0e124e6a7b47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vote-message-item.h-8.MuiBox-root.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[2]/div/div/div/div/div/div[3]/div)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;10&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44d2e892-0afc-4356-a2c6-e0aee20885d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vote-message-item h-8 MuiBox-root css-0</value>
+      <webElementGuid>0dbdaa21-60f8-4eeb-bf69-7520da5dd37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>3375af7d-f99e-4c20-8fa7-dc404a2d4ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-pad2pl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-973qre-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true !h-full !max-w-full !min-h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;bg-slate-200 h-full flex flex-col justify-between&quot;]/div[@id=&quot;scrollableDiv&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component pb-4 pt-4 gap-y-4&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;vote-message-container MuiBox-root css-0&quot;]/div[@class=&quot;bg-white rounded-lg w-[70%] p-4 cursor-pointer MuiBox-root css-0&quot;]/div[@class=&quot;mb-2 space-y-2 MuiBox-root css-0&quot;]/div[@class=&quot;vote-message-item h-8 MuiBox-root css-0&quot;]</value>
+      <webElementGuid>d62bcf5d-abb6-4753-9eb1-a06cb6b83ce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>1ef1a089-7597-42ac-a5bc-388c1fb3a2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::div[11]</value>
+      <webElementGuid>b328905d-2f72-4267-98cc-8de41bcf9bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chưa có cuộc trò chuyện nào'])[1]/following::div[17]</value>
+      <webElementGuid>e4a622b6-d313-46f6-ae95-7ebd9a0353e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hihi'])[1]/preceding::div[10]</value>
+      <webElementGuid>b90f4a4d-688d-46b1-908c-1c16e47fe0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soạn tin nhắn'])[1]/preceding::div[348]</value>
+      <webElementGuid>4b966dac-e7c6-4262-a6b7-f6e2afbfc39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>8497b683-3241-4b7e-a407-94c2c821ae10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10' or . = '10')]</value>
+      <webElementGuid>a776b614-0a15-423c-bdad-0124a2dd562d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

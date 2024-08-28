@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>task_deadline</name>
+   <tag></tag>
+   <elementGuidId>693f7d37-e8dc-484c-a973-915c3600c1c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/p)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>69e5d8cc-4b64-44a5-8d58-756ece879d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1724481753808</value>
+      <webElementGuid>d613ac8f-6afc-4474-bc39-b2f9a27708ae</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TC_Add an account_Chrome_TestSuites</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fe001b6f-324d-4e1b-a408-7adf6b362f0f</testSuiteGuid>
+   <testCaseLink>
+      <guid>e71deaac-512a-4247-9ac7-0413c3557f64</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Case/TC_Add an account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8f7777e3-fccb-448e-89ee-a86a03cb0115</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC_Add an account_Chrome_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fullname</value>
+         <variableId>ca46dd0d-04e7-4d4b-b1a0-63520aff7ef4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>b88492b5-75ab-41d8-a12f-e8a13a4338dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Role</value>
+         <variableId>6318dcf9-deee-4d61-9625-ab89a0c6a113</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>first</value>
+         <variableId>ec70d463-1eda-421d-b012-00e5c4927158</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>end</value>
+         <variableId>e13dd1c2-fa79-401e-9b53-efd6e8c2c391</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8f7777e3-fccb-448e-89ee-a86a03cb0115</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>status</value>
+         <variableId>cb40ebfc-b576-4555-b7b2-9f766a99c0c3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

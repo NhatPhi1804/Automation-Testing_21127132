@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>account_management_btn_nav</name>
+   <tag></tag>
+   <elementGuidId>01fc4e8b-16b1-461b-ae0c-1f2fd76e3129</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/ul/a[4]/li/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(4) > li.MuiListItem-root.MuiListItem-padding.css-1l9osrx-MuiListItem-root > div.MuiBox-root.css-v7ygw > div.MuiListItemIcon-root.css-1scsc0f-MuiListItemIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Quản lý tài khoản&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e93d9dc0-f72d-4e12-8993-89e39e11e174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemIcon-root css-1scsc0f-MuiListItemIcon-root</value>
+      <webElementGuid>c06f8951-c378-404d-bb45-0ddce10ceb0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>account_circle</value>
+      <webElementGuid>85baea06-b541-4bd5-9638-e604f7a311f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1gk2xzy-MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1ioqvny-MuiPaper-root-MuiDrawer-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-n4phvm-MuiList-root&quot;]/a[4]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-1l9osrx-MuiListItem-root&quot;]/div[@class=&quot;MuiBox-root css-v7ygw&quot;]/div[@class=&quot;MuiListItemIcon-root css-1scsc0f-MuiListItemIcon-root&quot;]</value>
+      <webElementGuid>c931686f-cf1b-4b23-8300-41dad633734c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/ul/a[4]/li/div/div</value>
+      <webElementGuid>85d4c982-b652-4925-86fa-d5727e10e40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý điểm số'])[1]/following::div[2]</value>
+      <webElementGuid>07f54ec9-2859-4f43-b0cc-006911a8a227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý loại nhóm'])[1]/following::div[5]</value>
+      <webElementGuid>864658a3-f2ed-47b8-8660-95d10dacc4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý tài khoản'])[1]/preceding::div[1]</value>
+      <webElementGuid>acfd1f0f-60c1-4812-9070-d77f42888a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[1]/preceding::div[3]</value>
+      <webElementGuid>06e5b9ea-13ef-4bc9-a4ac-72436395d576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li/div/div</value>
+      <webElementGuid>d1a84756-c734-4c14-a1a3-120c6c6dced3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'account_circle' or . = 'account_circle')]</value>
+      <webElementGuid>96e856d5-4511-4d78-8985-51c6ebdde5a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
